@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233267365012",
+    "project_id": "kayla-d03d2",
+    "storage_bucket": "kayla-d03d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233267365012:android:09d6a643fde322dce8e081",
+        "android_client_info": {
+          "package_name": "com.example.kayla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_bxndIhgr6YtyB4YzQYgWeL1sDS54ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
